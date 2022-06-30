@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "420135112317",
+    "project_id": "acupay",
+    "storage_bucket": "acupay.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:420135112317:android:548718df81964f6f1f6b14",
+        "android_client_info": {
+          "package_name": "com.acupay.coupons"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "420135112317-lr41mohhjblq8fj1r44t0bjm7bf1b6no.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.acupay.coupons",
+            "certificate_hash": "697cc8c59fe151949b68fde15b86b884dcdd1a7f"
+          }
+        },
+        {
+          "client_id": "420135112317-51gkfsp973hediiktahrlldin5n7p1va.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxnFWW4y8pzjOCqIZW0FOPbq0ItNcLtXg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "420135112317-51gkfsp973hediiktahrlldin5n7p1va.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "420135112317-l4gjtfr5ncqj726klda5uabruo3gb37a.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.acupay.coupons"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:420135112317:android:f8658ed292cd1c171f6b14",
+        "android_client_info": {
+          "package_name": "com.acupay.sellers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "420135112317-51gkfsp973hediiktahrlldin5n7p1va.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxnFWW4y8pzjOCqIZW0FOPbq0ItNcLtXg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "420135112317-51gkfsp973hediiktahrlldin5n7p1va.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "420135112317-l4gjtfr5ncqj726klda5uabruo3gb37a.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.acupay.coupons"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
